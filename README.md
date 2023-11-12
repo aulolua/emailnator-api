@@ -7,7 +7,7 @@ The `emailnator-api.js` module provides a simple interface for interacting with 
 To use this module in your Node.js project, you need to install the `node-fetch` library. Run the following command in your project's root directory:
 
 ```bash
-npm install node-fetch
+npm install node-fetch@2
 ```
 
 ## Usage
